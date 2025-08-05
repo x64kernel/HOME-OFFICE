@@ -76,7 +76,7 @@
         </p>
 
         <div class="video-container">
-          <video autoplay muted playsinline loop>
+          <video autoplay  playsinline loop>
             <source src="video home office..mp4" type="video/mp4">
             Seu navegador não suporta a tag de vídeo.
           </video>
