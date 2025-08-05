@@ -33,20 +33,14 @@
       margin-bottom: 1.5em;
     }
 
-    .video-container {<source src="https://x64kernel.github.io/homeoffice1/videos/video.mp4" type="video/mp4">
+    .video-container {
       display: flex;
       justify-content: center;
       align-items: center;
       margin: 20px 0;
     }
 
-    video {
-      width: 100%;
-      max-width: 720px;
-      height: auto;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      border-radius: 10px;
-    }
+    /* AQUI FICARIA O ESTILO DO VÍDEO NORMAL */
 
     .cta-button {
       display: inline-block;
@@ -113,15 +107,17 @@
     <p>
       Liberdade financeira, flexibilidade de horários e a chance de ser seu próprio chefe. Transforme seu tempo livre em dinheiro no bolso com nosso guia completo. Não precisa de experiência, apenas a vontade de mudar de vida.
     </p>
+
     <div class="video-container">
-      <video autoplay muted playsinline loop>
-        <source src="1754344267891.mp4" type="video/mp4">
-        Seu navegador não suporta a tag de vídeo.
-      </video>
+      <!-- AQUI VAI O VÍDEO -->
+      <p><source src="https://x64kernel.github.io/homeoffice1/videos/video%20home%20office.mp4" type="video/mp4">
+</p>
     </div>
+
     <p>
       Chegou a sua vez de assumir o controle do seu futuro financeiro. Clique no botão abaixo e comece sua jornada hoje mesmo!
     </p>
+
     <a href="#pagamento" class="cta-button">Adquira Agora!</a>
   </div>
 
