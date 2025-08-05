@@ -109,9 +109,9 @@
     </p>
 
     <div class="video-container">
-      <!-- AQUI VAI O VÍDEO -->
-      <p><source src="https://x64kernel.github.io/homeoffice1/videos/video%20home%20office.mp4" type="video/mp4">
-</p>
+
+      <p><source src="https://x64kernel.github.io/homeoffice1/videos/video%20home%20office.mp4" type="video/mp4"></p>
+
     </div>
 
     <p>
