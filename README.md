@@ -87,7 +87,7 @@
           Clique no botão abaixo e comece sua jornada hoje mesmo!
         </p>
 
-        <a href="https://github.com/x64kernel/HOMEOFFICE./blob/main/README.md" class="cta-button">Quero começar agora!</a>
+        <a href="https://x64kernel.github.io/HOMEOFFICE./" class="cta-button">Quero começar agora!</a>
     </div>
 
 </body>
