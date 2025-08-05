@@ -87,7 +87,7 @@
           Clique no botão abaixo e comece sua jornada hoje mesmo!
         </p>
 
-        <a href="https://[x64kernel].github.io/pagina-vendas/" class="cta-button">Quero começar agora!</a>
+        <a href="https://x64kernel.github.io/pagina-vendas/" class="cta-button">Quero começar agora!</a>
     </div>
 
 </body>
