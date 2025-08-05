@@ -4,10 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Transforme Seu Tempo Livre em Renda Extra</title>
   <style>
-    html {
-      scroll-behavior: smooth;
-    }
-
+    html { scroll-behavior: smooth; }
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
       line-height: 1.6;
@@ -17,31 +14,26 @@
       color: #333;
       text-align: center;
     }
-
     .container {
       max-width: 800px;
       margin: 20px auto;
       padding: 0 20px;
     }
-
-    h1, h2 {
-      color: #2c3e50;
-    }
-
-    p {
-      font-size: 1.1em;
-      margin-bottom: 1.5em;
-    }
-
+    h1, h2 { color: #2c3e50; }
+    p { font-size: 1.1em; margin-bottom: 1.5em; }
     .video-container {
       display: flex;
       justify-content: center;
       align-items: center;
       margin: 20px 0;
     }
-
-    /* AQUI FICARIA O ESTILO DO VÍDEO NORMAL */
-
+    video {
+      width: 100%;
+      max-width: 720px;
+      height: auto;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
     .cta-button {
       display: inline-block;
       background-color: #3498db;
@@ -54,45 +46,32 @@
       margin-top: 20px;
       transition: background-color 0.3s ease, transform 0.2s ease;
     }
-
     .cta-button:hover {
       background-color: #2980b9;
       transform: translateY(-2px);
     }
-
-    .section {
-      margin-top: 60px;
-      padding-top: 30px;
-    }
-
+    .section { margin-top: 60px; padding-top: 30px; }
     ul {
       text-align: left;
       padding-left: 20px;
     }
-
-    ul li {
-      margin-bottom: 10px;
-    }
-
+    ul li { margin-bottom: 10px; }
     .highlight {
       background: #ffeaa7;
       padding: 5px 10px;
       border-radius: 6px;
       font-weight: bold;
     }
-
     a.link {
       color: #2980b9;
       text-decoration: underline;
     }
-
     .payment-box {
       background: #fff;
       padding: 30px;
       border-radius: 12px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
-
     .pix-info {
       font-size: 1em;
       margin-top: 20px;
@@ -109,9 +88,10 @@
     </p>
 
     <div class="video-container">
-
-      <p><source src="https://x64kernel.github.io/homeoffice1/videos/video%20home%20office.mp4" type="video/mp4"></p>
-
+      <video autoplay muted playsinline loop>
+        <source src="https://x64kernel.github.io/homeoffice1/videos/video%20home%20office..mp4" type="video/mp4">
+        Seu navegador não suporta a tag de vídeo.
+      </video>
     </div>
 
     <p>
