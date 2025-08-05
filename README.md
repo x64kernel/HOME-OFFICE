@@ -10,8 +10,8 @@
       line-height: 1.6;
       margin: 0;
       padding: 0;
-      background-color: #f4f4f9;
-      color: #333;
+      background-color: #000; /* Fundo preto */
+      color: #fff; /* Texto branco */
       text-align: center;
     }
     .container {
@@ -19,8 +19,13 @@
       margin: 20px auto;
       padding: 0 20px;
     }
-    h1, h2 { color: #2c3e50; }
-    p { font-size: 1.1em; margin-bottom: 1.5em; }
+    h1, h2 {
+      color: #f1c40f; /* Destaque dourado */
+    }
+    p {
+      font-size: 1.1em;
+      margin-bottom: 1.5em;
+    }
     .video-container {
       display: flex;
       justify-content: center;
@@ -31,12 +36,12 @@
       width: 100%;
       max-width: 720px;
       height: auto;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      box-shadow: 0 4px 8px rgba(255,255,255,0.1);
       border-radius: 10px;
     }
     .cta-button {
       display: inline-block;
-      background-color: #3498db;
+      background-color: #e67e22;
       color: #fff;
       padding: 15px 30px;
       text-decoration: none;
@@ -47,35 +52,41 @@
       transition: background-color 0.3s ease, transform 0.2s ease;
     }
     .cta-button:hover {
-      background-color: #2980b9;
+      background-color: #d35400;
       transform: translateY(-2px);
     }
-    .section { margin-top: 60px; padding-top: 30px; }
+    .section {
+      margin-top: 60px;
+      padding-top: 30px;
+    }
     ul {
       text-align: left;
       padding-left: 20px;
     }
-    ul li { margin-bottom: 10px; }
+    ul li {
+      margin-bottom: 10px;
+    }
     .highlight {
-      background: #ffeaa7;
+      background: #2c3e50;
       padding: 5px 10px;
       border-radius: 6px;
       font-weight: bold;
+      color: #f1c40f;
     }
     a.link {
-      color: #2980b9;
+      color: #1abc9c;
       text-decoration: underline;
     }
     .payment-box {
-      background: #fff;
+      background: #111;
       padding: 30px;
       border-radius: 12px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      box-shadow: 0 4px 8px rgba(255,255,255,0.05);
     }
     .pix-info {
       font-size: 1em;
       margin-top: 20px;
-      color: #444;
+      color: #ccc;
     }
   </style>
 </head>
@@ -114,7 +125,6 @@
         <li><strong>Acesso ao Conteúdo Exclusivo</strong>: guia completo e detalhado.</li>
         <li><strong>Direito de Revenda</strong>: você vende o material e o lucro é 100% seu.</li>
         <li><strong>Preço Sugerido</strong>: recomendamos R$ 7,50, mas você define seu valor.</li>
-
       </ul>
 
       <p><strong>Modelo de Trabalho:</strong></p>
@@ -124,19 +134,17 @@
         <li>🔁 Vende para outras pessoas e ensina elas a fazer o mesmo.</li>
       </ul>
 
-
       <p>
         Comece agora a construir a vida que você sempre sonhou.<br>
         A liberdade financeira está <strong>a um passo</strong> de você!
       </p>
 
       <h3>💸 Pagamento via PIX</h3>
-<p class="pix-info">
-  Faça um PIX de <strong>R$ 7,50</strong> para:<br>
-  <strong>21982711759</strong><br><br>
-  Após o pagamento, envie o comprovante para nosso WhatsApp:<br>
-  <a class="link" href="https://wa.me/5521982711759" target="_blank">📲 Clique aqui para enviar o comprovante</a>
-
+      <p class="pix-info">
+        Faça um PIX de <strong>R$ 7,50</strong> para:<br>
+        <strong>21982711759</strong><br><br>
+        Após o pagamento, envie o comprovante para nosso WhatsApp:<br>
+        <a class="link" href="https://wa.me/5521982711759" target="_blank">📲 Clique aqui para enviar o comprovante</a>
       </p>
 
       <p><em>Assim que confirmarmos, você recebe o material no seu e-mail ou WhatsApp.</em></p>
