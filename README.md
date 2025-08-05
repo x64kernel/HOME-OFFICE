@@ -124,12 +124,6 @@
         <li>🔁 Vende para outras pessoas e ensina elas a fazer o mesmo.</li>
       </ul>
 
-      <p><strong>Dicas para Bombar nas Vendas:</strong></p>
-      <ul>
-        <li>✨ Use frases de impacto: "<em>HOME OFFICE É A SAÍDA!</em>" ou "<em>Realize seu sonho de trabalhar de casa!</em>".</li>
-        <li>💬 Abordagem direta no privado: "<em>Oi! Vi que você se interessou. Posso te mostrar como começar ainda hoje?</em>"</li>
-        <li>💡 Mostre que o valor é um <strong>investimento único</strong> que pode mudar a vida da pessoa.</li>
-      </ul>
 
       <p>
         Comece agora a construir a vida que você sempre sonhou.<br>
