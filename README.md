@@ -113,7 +113,8 @@
       <ul>
         <li><strong>Acesso ao Conteúdo Exclusivo</strong>: guia completo e detalhado.</li>
         <li><strong>Direito de Revenda</strong>: você vende o material e o lucro é 100% seu.</li>
-        <li><strong>Preço Sugerido</strong>: recomendamos R$ 30,00, mas você define seu valor.</li>
+        <li><strong>Preço Sugerido</strong>: recomendamos R$ 7,50, mas você define seu valor.</li>
+
       </ul>
 
       <p><strong>Modelo de Trabalho:</strong></p>
@@ -136,11 +137,12 @@
       </p>
 
       <h3>💸 Pagamento via PIX</h3>
-      <p class="pix-info">
-        Faça um PIX de <strong>R$ 30,00</strong> para:<br>
-        <strong>21982711759</strong><br><br>
-        Após o pagamento, envie o comprovante para nosso WhatsApp:<br>
-        <a class="link" href="https://wa.me/5521982711759" target="_blank">📲 Clique aqui para enviar o comprovante</a>
+<p class="pix-info">
+  Faça um PIX de <strong>R$ 7,50</strong> para:<br>
+  <strong>21982711759</strong><br><br>
+  Após o pagamento, envie o comprovante para nosso WhatsApp:<br>
+  <a class="link" href="https://wa.me/5521982711759" target="_blank">📲 Clique aqui para enviar o comprovante</a>
+
       </p>
 
       <p><em>Assim que confirmarmos, você recebe o material no seu e-mail ou WhatsApp.</em></p>
